@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "My Daily",
+  "description": "A lightweight, private personal assistant for managing tasks, expenses, notes, shopping, and everyday life.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
